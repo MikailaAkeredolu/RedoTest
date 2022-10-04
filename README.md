@@ -15,7 +15,7 @@
 -  Create a List of FlightCrewJobs and add 3 FlightCrewJobs to your List in this order. <flightCrewJob3, flightCrewJob1, flightCrewJob2>
 -  Invoke  printEachFlightCrewJob method and pass in the List of FlightCrewJobs
 -  Invoke the sortAndPrintFlightCrewJobsByJobTitle method with the same List of FlightCrewJobs
--  printAllJObsExceptThisCrewMemberJob method and pass in the same List of FlightCrewJobs as well as crewMember3.
+-  printAllFlightCrewJObsExceptThisCrewMemberJob method and pass in the same List of FlightCrewJobs as well as crewMember3.
 >  PUSH TO GITHUB AND MAKE YOUR REPO PRIVATE. DM ME FOR A REVIEW!
 
 
