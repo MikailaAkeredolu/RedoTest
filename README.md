@@ -23,3 +23,30 @@
 - PlaneTicket cost 100.0 while a BusTicket cost 50.0
 - passenger57's crediCardLimit is 1000.0 cost while passenger07's is 800.0
 
+## Expected output
+3
+======================
+ Ticket Id: 2
+ Origin: Brooklyn
+ Destination: Germany
+ seatNumber: 007A
+ $50.0
+======================
+Now serving... Wesley Snipes
+======================
+100000.0
+90000.0
+70000.0
+100.0
+50.0
+==========Before Sorting============
+FLIGHT_ATTENDANT
+PILOT
+CO_PILOT
+=============After Sorting==============
+PILOT
+CO_PILOT
+FLIGHT_ATTENDANT
+===========================
+PILOT
+CO_PILOT
