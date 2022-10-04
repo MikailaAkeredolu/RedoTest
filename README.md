@@ -1,4 +1,4 @@
-![FinalFlightThings drawio](https://user-images.githubusercontent.com/10773482/193842304-c8d3cf36-b854-4b2f-bf22-0851cb1bec84.png)
+![UpdatedFlightThings drawio](https://user-images.githubusercontent.com/10773482/193865493-de404738-7745-40cc-b05b-428004e52ee2.png)
 
 ### Use the UML to answer the questions below in your main() method
 
