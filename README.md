@@ -1,6 +1,6 @@
 ![FinalFlightThings drawio](https://user-images.githubusercontent.com/10773482/193842304-c8d3cf36-b854-4b2f-bf22-0851cb1bec84.png)
 
-### Use the UML to answer the questions below
+### Use the UML to answer the questions below in your main() method
 
 -  Create 3 different type of FlightCrewJobs and name them flightCrewJob1, flightCrewJob2, and flightCrewJob3
 -  Create 3 different CrewMembers but each MUST have a different job then name them crewMember1, crewMember2, crewMember3
@@ -16,4 +16,3 @@
 -  Invoke the sortAndPrintCrewMembersByJobTitle method on the same List of FlightCrewJobs
 -  printAllJObsExceptThisCrewMemberJob method and pass in the same List of FlightCrewJobs as well as crewMember3.
 -  PUSH TO GITHUB AND MAKE YOUR REPO PRIVATE. DM ME FOR A REVIEW!
-- 
