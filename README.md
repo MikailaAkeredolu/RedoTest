@@ -10,7 +10,6 @@
 -  Invoke the getAmtOfLuggage method on the passenger57 object. **Make sure you print out the result**
 -  Invoke the printTicketMethod on passenger07
 -  Invoke the serve method on crewMember3 and pass in passenger57
--  Have crewMember3 serve passenger57 by invoking the serve() method
 -  Invoke the printAmountForEachThingThatIsPayable method on all things that are Payable
 -  Create a List of FlightCrewJobs and add 3 FlightCrewJobs to your List in this order. <flightCrewJob3, flightCrewJob1, flightCrewJob2>
 -  Invoke  printEachFlightCrewJob method and pass in the List of FlightCrewJobs
