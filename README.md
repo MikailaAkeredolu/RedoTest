@@ -17,3 +17,10 @@
 -  Invoke the sortAndPrintCrewMembersByJobTitle method on the same List of FlightCrewJobs
 -  printAllJObsExceptThisCrewMemberJob method and pass in the same List of FlightCrewJobs as well as crewMember3.
 -  PUSH TO GITHUB AND MAKE YOUR REPO PRIVATE. DM ME FOR A REVIEW!
+
+
+### Facts
+``` crewMember1's salary is 100000.0, crewMember2's salary is 90000.0, crewMember3's salary is 70000.0```
+```PlaneTicket cost 100.0 while a BusTicket cost 50.0```
+```passenger57's crediCardLimit is 1000.0 cost while passenger07's is 800.0```
+
