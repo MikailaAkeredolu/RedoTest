@@ -24,7 +24,8 @@
 - passenger57's crediCardLimit is 1000.0 cost while passenger07's is 800.0
 
 ## Expected output
-3
+
+```3
 ======================
  Ticket Id: 2
  Origin: Brooklyn
@@ -50,3 +51,4 @@ FLIGHT_ATTENDANT
 ===========================
 PILOT
 CO_PILOT
+```
