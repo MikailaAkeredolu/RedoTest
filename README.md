@@ -25,7 +25,8 @@
 
 ## Expected output
 
-```3
+```
+3
 ======================
  Ticket Id: 2
  Origin: Brooklyn
