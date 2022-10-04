@@ -6,6 +6,7 @@
 -  Create 3 different CrewMembers but each MUST have a different job then name them crewMember1, crewMember2, crewMember3
 -  Create two  tickets. one MUST be a Plane ticket and the other a Bus ticket
 -  Create two passenger objects and name them passenger57 and passenger07
+-  passenger57 should have only 3 luggages while passenger07 has only 2
 -  Invoke the getAmtOfLuggage method on the passenger57 object. **Make sure you print out the result**
 -  Invoke the printTicketMethod on passenger07
 -  Invoke the serve method on passenger57
